@@ -1,0 +1,1 @@
+# Apache Configuration for Confluence
